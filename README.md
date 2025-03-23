@@ -177,6 +177,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 🎉 **Happy Coding!** 🎉
 
----
-
-This version is clean, properly formatted, and highlights all key aspects. It follows best practices and will create a positive impression on reviewers. 🚀 Let me know if this works or if you'd like any adjustments! 😎
